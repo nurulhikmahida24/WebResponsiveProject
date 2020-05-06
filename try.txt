@@ -1,0 +1,34 @@
+
+$(document).ready(function()
+{
+	$("#submit").click(function()
+	{
+		var depan = $("#depan").val();
+		var belakang = $("#belakang").val();
+		var email = $("#email").val();
+		var telepon = $("#telepon").val();
+		var alasan = $("#alasan").val();
+		
+	if( depan == '' || belakang == ''|| email == ''|| telepon =='' || alasan == '')
+		{
+		$('input[type="text"], input[type="text"], input[type="email"], input[type="text"], input[type="text"]').css("border","2px solid red");
+		$('input[type="text"], input[type="text"], input[type="email"], input[type="text"], input[type="text"]').css("box-shadow","0 0 3px red");
+		alert("Please fill all field");
+	}
+	
+	else
+	{
+		alert('Welcome '+ uid + ' !!!');
+	}
+}
+});
+$("input").focus(function(){
+	$(this).css("background-color","#cccccc");
+	$(this).css("color","#000");
+});
+
+$("input").blur(function(){
+	$(this).css("background-color","#ffffff");
+	$(this).css("color","#4f4f4f");
+});
+});

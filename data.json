@@ -1,0 +1,44 @@
+[
+    {
+        "id":"1",
+        "nama" : "UKM Basket",
+        "deskripsi" : "Menghasilkan sumber daya manusia yang menguasai kemampuan dalam bidang teoritis dan praktis, sehingga dapat diterapkan dalam kehidupan bermasyarakat.",
+        "foto" : "basket.jpg"
+    },
+    {
+        "id": "2",
+        "nama": "UKM Karate",
+        "deskripsi": "Kegiatan KARATE lebih banyak dibidang beladiri , olah fisik dan biasanya juga mempunyai kegiatan latihan gabungan antar UKM Karate. Serta UKM Karate turut serta dalam berbagai kejuaraan di tingkat kota, provinsi dan nasional.",
+        "foto": "karate.jpg"
+    },
+    {
+        "id": "3",
+        "nama": "UKM Koperasi Mahasiswa",
+        "deskripsi": "Unit Kegiatan Mahasiswa Koperasi Mahasiswa (KOPMA) merupakan UKM yang bertujuan untuk melatih jiwa kewirausahaan dan kedisiplinan para mahasiswa. Melalui UKM ini mahasiwa dapat memiliki gambaran dan mencoba merasakan dunia kerja mini yang nantinya akan berguna untuk bekal dalam menghadapi dunia kerja sesungguhnya. ",
+        "foto": "kopma.jpg"
+    },
+	{
+        "id": "4",
+        "nama": "UKM LDK",
+        "deskripsi": "LDK adalah lembaga yang bergerak di bidang dakwah Islam ini muncul pada era tahun 60-an, kampus merupakan inti kekuatannya, dan warga civitas akademika adalah objek utamanya. Ditinjau dari struktur sosial kemasyarakatan, mahasiswa dan kampus merupakan satu kesatuan sistem sosial yang mempunyai peranan penting dalam perubahan sosial peri-kepemimpinan di tengah-tengah masyarakat. ",
+        "foto": "ldk.jpg"
+    },
+	{
+        "id": "5",
+        "nama": "UKM Paduan Suara",
+        "deskripsi": "Awalnya kelompok ini dibentuk untuk menampung mahasiswa yang memiliki interest di bidang tarik suara. Seiring dengan perkembangan jaman kelompok paduan suara ini memiliki roles yang lebih kompleks, mulai dari struktur organisasi hingga ketentuan masuk.",
+        "foto": "choir.jpg"
+    },
+	{
+        "id": "6",
+        "nama": "UKM Pecinta Alam",
+        "deskripsi": "sekumpulan mahasiswa yang ingin meningkatkan rasa peduli terhadap lingkungan dan meningkatkan kualitas sumber daya manusia dalam ruang lingkup universitas pertamina sepakat untuk mendirikan sebuah organisasi berbasis Pecinta Alam ",
+        "foto": "alam.jpg"
+    },
+	{
+        "id": "7",
+        "nama": "UKM Pers Mahasiswa",
+        "deskripsi": "Menjadi Unit Kegiatan Mahasiswa yang mandiri, kreatif, inovatif, kritis dan terampil dalam menyampaikan informasi kepada publik yang berkualitas dan bermanfaat serta profesional.",
+        "foto": "warta.jpg"
+    }
+]
